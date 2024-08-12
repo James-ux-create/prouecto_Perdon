@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Mi cerebro se quema haciendo esto xD, pero vale la pena')
+    alert('Mi cerebro se quema haciendo esto, pero vale la pena')
 });
 
 const noBtn = document.querySelector('#noBtn');
